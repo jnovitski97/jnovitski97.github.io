@@ -103,7 +103,7 @@
             "overlay": true,
             "overlayOpacity": "0.7",
             "overlayColor": "#000000",
-            "inverse": false,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
@@ -163,7 +163,7 @@
             "overlay": true,
             "overlayOpacity": 0.3,
             "overlayColor": "#000",
-            "inverse": true,
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false,
@@ -174,7 +174,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/resume-pic-1400x1818.png",
-              "link": "",
+              "link": "jnovitski97.github.io/Justin D Novitski Resume 2017 PDF.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -192,7 +192,7 @@
             }
           },
           "title": "RESUME",
-          "text": "Click on the preview to the left to access a PDF version.",
+          "text": "Click on the preview to access a PDF version.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
