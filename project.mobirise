@@ -132,7 +132,7 @@
             }
           },
           "title": "ABOUT ME",
-          "text": "Hi! &nbsp;My name is Justin D. Novitski and I am a second-year computer engineering student at Penn State University. &nbsp;WE ARE! &nbsp;I am a huge sports fan and music lover, as well as a proud volunteer for THON.  Throughout my life, I have always been fascinated by computers and technology in general, so I can't wait to further my knowledge by following this career path. &nbsp;Currently, I am comfortable programming in Python and have experience in Java, HTML, and CSS.<br><br>You can check out my resume below.",
+          "text": "Hi! &nbsp;My name is Justin D. Novitski and I am a second-year computer engineering student at Penn State University. &nbsp;WE ARE! &nbsp;I am a huge sports fan and music lover, as well as a proud volunteer for THON.  Throughout my life, I have always been fascinated by computers and technology in general, so I can't wait to further my knowledge by following this career path. &nbsp;Currently, I am comfortable programming in Python and have experience in Java, C++, HTML, and CSS.<br><br>You can check out my resume below.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -173,7 +173,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/resume-pic-1400x1808.png",
+              "src": "@PROJECT_PATH@/assets/images/resume-pic-1400x1814.png",
               "link": "jnovitski97.github.io/resume.pdf",
               "alt": "",
               "title": "",
